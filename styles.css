@@ -1,0 +1,17 @@
+header {
+    margin: 10px auto auto;
+    width: 85%;
+}
+
+section {
+    width: 80%;
+    margin: auto;
+}
+
+.chart {
+    padding: 30px;
+}
+
+h1, h2 {
+    font-family: 'Bebas Neue', sans-serif;
+}
